@@ -33,7 +33,7 @@ Clone this repository:
 bash Copy
 
 
-git clone https://github.com/SRINIVASAKALYANRAVIPATI/password-strength-checker.git
+git clone https://github.com/SRINIVASAKALYANRAVIPATI/Password-strength-checker-/pwd_s_c.py
 
 
 Navigate into the project directory:
